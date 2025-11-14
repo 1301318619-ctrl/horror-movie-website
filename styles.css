@@ -2,3 +2,23 @@ body {
     background-color: rgb(46, 41, 41);
     background-image: url(https://cdn.pixabay.com/photo/2015/05/20/22/58/lost-places-776297_1280.jpg);
 }
+
+h1 {
+    color: rgb(210, 210, 210);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+}
+
+a {
+    color: whitesmoke;
+}
+
+h2 {
+    color: whitesmoke;
+    font-size: 40px;
+}
+
+h3 {
+    color: whitesmoke;
+    font-size: 40px;
+}
