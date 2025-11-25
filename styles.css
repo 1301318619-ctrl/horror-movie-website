@@ -7,25 +7,38 @@ h1 {
     color: rgb(210, 210, 210);
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size: 100px;
+    padding: 200px;
 }
 
 a {
     color: rgb(131, 61, 95);
     font-size: 20px;
+    padding-left: 5px;
 }
 
 h2 {
     color: whitesmoke;
     font-size: 40px;
+    padding: 500px;
+    padding-top:10px;
 }
 
 h3 {
     color: whitesmoke;
     font-size: 40px;
+    padding: 500px;
+    padding-top:10px;
 }
 
 h4 {
     color: whitesmoke;
     font-size: 20px;
+    padding: 650px;
+    padding-top: 10px;
 }
 
+h5 {
+    color: rgb(223, 154, 188);
+    font-size: 15px;
+    padding: ;
+}
