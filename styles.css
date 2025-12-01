@@ -1,6 +1,5 @@
 body {
-    background-color: rgb(46, 41, 41);
-    background-image: url(https://cdn.pixabay.com/photo/2015/05/20/22/58/lost-places-776297_1280.jpg);
+    background-color: rgb(32, 29, 29);
 }
 
 h1 {
@@ -19,26 +18,22 @@ a {
 h2 {
     color: whitesmoke;
     font-size: 40px;
-    padding: 500px;
     padding-top:10px;
 }
 
 h3 {
     color: whitesmoke;
     font-size: 40px;
-    padding: 500px;
-    padding-top:10px;
 }
 
 h4 {
     color: whitesmoke;
     font-size: 20px;
-    padding: 650px;
-    padding-top: 10px;
 }
 
 h5 {
     color: rgb(223, 154, 188);
     font-size: 15px;
-    padding: ;
+    padding:650;
+    padding-top: 10px;
 }
