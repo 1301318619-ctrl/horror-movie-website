@@ -1,5 +1,6 @@
 body {
     background-color: rgb(32, 29, 29);
+    background-image:linear-gradient(to right, rgb(241, 202, 209), rgb(216, 96, 116)) ;
 }
 
 h1 {
@@ -10,7 +11,7 @@ h1 {
 }
 
 a {
-    color: rgb(131, 61, 95);
+    color: rgb(151, 77, 113);
     background-color: rgb(214, 119, 151);
     font-size: 20px;
     font-family: monospace;
@@ -36,7 +37,7 @@ h4 {
 }
 
 h5 {
-    color: rgb(223, 154, 188);
+    color: rgb(206, 99, 152);
     font-size: 15px;
     padding:650;
     padding-top: 10px;
